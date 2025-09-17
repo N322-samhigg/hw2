@@ -19,3 +19,4 @@ expo start
 ```
 
 Project preview:
+https://github.com/N322-samhigg/hw2/blob/main/ScreenRecording_09-17-2025%2012-30-06_1.MP4
